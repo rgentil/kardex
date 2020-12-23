@@ -1,7 +1,0 @@
-com/kardex/stockmanager/controllers/StockController0.class
-com/kardex/stockmanager/config/SwaggerConfig.class
-com/kardex/stockmanager/models/Stock.class
-com/kardex/stockmanager/Application.class
-com/kardex/stockmanager/services/StockService.class
-com/kardex/stockmanager/controllers/StockController.class
-com/kardex/stockmanager/repositories/StockRepository.class
